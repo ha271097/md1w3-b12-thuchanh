@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>In ra số nguyễn</title>
+</head>
+<body>
+<script>
+    let number = parseInt(prompt('Enter number'));
+    let count=0;
+    let n=2;
+    if (number >=n){
+        document.write('2'+ "</br>");
+    }
+    if(number>=3){
+        document.write('3' + "</br>");
+    }
+    if(number >= 5){
+        document.write('5' + "</br>");
+    }
+    for (count = 5; count < number; count += 2) {
+        if (count % 5 === 0) {
+            continue;
+
+        }
+        document.write(count + "</br>");
+    }
+
+</script>
+</body>
+</html>
