@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e2b81b0-670b-444c-8763-d978390d1ba7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bai12-thuchanh/bai12-thuchanh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nháp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bai11-baitaplap2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bai11-baitaplap2/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +37,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -51,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1615863201408</updated>
       <workItem from="1615863202559" duration="1682000" />
-      <workItem from="1615904455207" duration="625000" />
+      <workItem from="1615904455207" duration="1039000" />
     </task>
     <servers />
   </component>
